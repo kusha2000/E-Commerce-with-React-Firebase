@@ -1,25 +1,31 @@
 # E-Commerce-with-React-Firebase
  
- This is a fully functional eCommerce website built with React and Firebase, styled with Tailwind CSS.
+This is a fully functional eCommerce website built with React and Firebase, styled with Tailwind CSS.
 
-Features:
+<h3><u>Technologies Used</u></h3>
 <ul>
-<li>Authentication: Users can register and log in to their accounts.</li>
-<li>Product Browsing: Products can be viewed by category, and detailed information is available for each product.</li>
-<li>Shopping Cart: Users can add products to their cart for purchase.</li>
-<li>Search Functionality: Users can search for products easily.</li>
-<li>Admin Dashboard: Includes CRUD operations for products and users. Admins can view detailed information about users, products, and orders.</li>
+🔹 Frontend: React, Tailwind CSS</br>
+🔹 Backend: Firebase (Firestore, Authentication)</br>
 </ul>
 
-Tech Stack:
+<h3><u>Features</u></h3>
 <ul>
-<li>Frontend: React, Tailwind CSS</li>
-<li>Backend: Firebase (Firestore, Authentication)</li>
+✅ Authentication: Users can register and log in to their accounts.<br>
+✅ Product Browsing: Products can be viewed by category, and detailed information is available for each product.<br>
+✅ Shopping Cart: Users can add products to their cart for purchase.<br>
+✅ Search Functionality: Users can search for products easily.<br>
+✅ Admin Dashboard: Includes CRUD operations for products and users. Admins can view detailed information about users, products, and orders.<br>
 </ul>
+
+
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/E-Commerce-with-React-Firebase/assets/127003267/e201ec82-88ba-4661-8d82-480cc4a9afd7)
+
+https://github.com/user-attachments/assets/ce8b6892-ae50-416b-bdd5-c4832b771fe5
+
+
+
 
 <br><br>
 
